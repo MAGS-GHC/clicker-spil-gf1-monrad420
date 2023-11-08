@@ -1,4 +1,4 @@
-clicks = 0;
+chilks= 0;
 function Increment() {
     clicks++;
     document.getElementById("Count").innerHTML = clicks;
